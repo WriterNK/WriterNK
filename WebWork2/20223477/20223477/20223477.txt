@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<htmllang="en">
+<head>
+<metacharset="UTF-8">
+</head>
+<body bgcolor="black"text="green">
+<img width="1800" height="300" src=https://ts1.cn.mm.bing.net/th/id/R-C.b8058f8fabbe01be6496f80431d2ea89?rik=3Lq751zM%2fUrv%2bA&riu=http%3a%2f%2fseopic.699pic.com%2fphoto%2f50048%2f7563.jpg_wh1200.jpg&ehk=xLNw9yqmFZ5CaLao9aA7rMB6f%2bFlx71hQiF8jXvCnbo%3d&risl=&pid=ImgRaw&r=0>>
+<p align="center">
+<font size="7"face="黑体"color="white">
+Web编程
+</font>
+</p>
+<p align="right">
+<font size="5"face="楷体"color="white">
+授课老师:李健宏
+</font>
+</p>
+<h1>
+第1课
+</h1>
+<h4>
+一.计算机专业的学习特别需要培养英文阅读能力
+</h4>
+<ul>
+<li>1.欧美作为现代互联网的起源,培养英语阅读能力有利于我们学习互联网知识.
+<li>2.可以通过阅读英语书籍来学习英语.推荐的阅读工具:Kindle paperwhite;推荐书籍:"Learn css in one day and learn it well"
+</ul>
+<h4>
+二.谈阅读电子书
+</h4>
+<ul>
+<li>1.使用移动设备阅读,建议使用平板,Kindle paperwhite
+<li>2.利用碎片化时间阅读.
+</ul>
+<h4>
+三.谈web平台的软件开发
+</h4>
+<ul>
+<li>1.计算机硬件和软件的概念
+<li>2.理解计算机体系的层次
+</ul>
+<h4>
+四.创建html文件
+</h4>
+<ul>
+<li>1.使用记事本进行编辑
+<li>2.编辑完成后另存为html格式的文件
+<li>3.用浏览器打开文件，建议使用Google Chrome
+<li>4.学习使用热键等编辑技巧
+</ul>
+<h4>
+综述CSS语言的学习
+</h4>
+<ul>
+<li>1.先动手进行基础实践再学习理论知识
+<li>2.浅谈"Learn css in one day and learn it well"一书中各章节内容
+</ul>
+<h1>
+ 第2课
+</h1>
+<h4>
+html页面的组织结构
+</h4>
+<ul>
+<li>1.树状结构
+</ul>
+<h4>
+CSS-introduction
+</h4>
+<ul>
+<li>1.CSS的概念
+<li>2.内容为王，网页要言之有物
+<li>3.浏览器和编码工具推荐
+</ul>
+<h4>
+浏览器和Web
+</h4>
+<ul>
+<li>1.站在文件的层面理解网页
+<li>2.html文件在浏览器中的运行
+</ul>
+<h4>
+代码编辑器
+</h4>
+<ul>
+<li>1.先学习使用记事本编辑代码
+<li>2.专业代码编辑器的便利之处
+</ul>
+</body>
+</html>
+
+
+
+
+
